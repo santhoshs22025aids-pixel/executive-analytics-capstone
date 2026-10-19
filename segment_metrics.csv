@@ -1,0 +1,13 @@
+Dimension,Segment,Customers,Churned,ChurnRate
+ContractType,Month-to-Month,7,7,1.0
+ContractType,One Year,4,0,0.0
+ContractType,Two Year,4,0,0.0
+SubscriptionType,Basic,7,5,0.7142857142857143
+SubscriptionType,Pro,4,2,0.5
+SubscriptionType,Enterprise,4,0,0.0
+TenureBand,0-12 months,6,6,1.0
+TenureBand,13-24 months,5,1,0.2
+TenureBand,25+ months,4,0,0.0
+TicketBand,4+ tickets,5,5,1.0
+TicketBand,2-3 tickets,4,2,0.5
+TicketBand,0-1 tickets,6,0,0.0
